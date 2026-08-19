@@ -1,0 +1,6 @@
+{
+  "name": "EduAI Buddy",
+  "description": "An interactive AI study search and question solver app for students and kids to ask and explore random study questions across all subjects with step-by-step answers and key facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
